@@ -164,17 +164,3 @@
 * полноценные веб-приложения.
 
 ---
-
-<div align="center">
-
-<br>
-
-**ximuns**
-
-Full-stack Developer
-
-<br>
-
-[GitHub](https://github.com/ximuns)
-
-</div>
