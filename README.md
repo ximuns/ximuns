@@ -8,7 +8,7 @@
 
 <br>
 
-**Laravel · Livewire · Filament · PHP · React ·  Next.js  · Livewire · CSS · SCSS · HTML · JavaScript**
+**Laravel · Livewire · Filament · PHP · React ·  Next.js  · CSS · SCSS · HTML · JavaScript**
 
 <br><br>
 
