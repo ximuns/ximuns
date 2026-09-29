@@ -167,8 +167,6 @@
 
 <div align="center">
 
-### `01` `10` `11` `00`
-
 <br>
 
 **ximuns**
